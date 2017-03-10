@@ -1,2 +1,1 @@
-# MySQL
-Example scripts to create app consistent VM backup for Linux VMs running MySQL in Azure using Azure Backup
+The scripts on this page are provided to you by various third-parties and are licensed to you by those third-parties.  Microsoft does not license any intellectual property to you as part of any third-party scripts and is not responsible for information provided by third-parties.  Microsoft makes no warranty, express or implied, guarantees or conditions with respect to your use of the scripts.  You understand that use of the scripts is at your own risk.  Unless otherwise stated by the third-party licensing you the script, the scripts are provided as-is without any warranty or support.    
