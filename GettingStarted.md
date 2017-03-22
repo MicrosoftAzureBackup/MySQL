@@ -16,4 +16,4 @@ The goal was to define a very simple and standard use case for a MySQL master-sl
 
 Please, note that these scripts were written and published for testing purposes; you are solely responsible for determining the appropriateness of using or redistributing them and you assume any risks associated.
 
-You can find more information in the official announcement and the related blog posts.
+You can find more information in the [official announcement](https://azure.microsoft.com/en-us/blog/announcing-application-consistent-backup-for-linux-vms-using-azure-backup/) and the [related blog post](https://capside.com/labs/application-consistent-backup-azure-linux-vms/).
